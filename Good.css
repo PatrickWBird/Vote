@@ -1,0 +1,27 @@
+legend{
+    background-color: lightcoral;
+}
+
+fieldset{
+    background-color: aquamarine;
+}
+
+body{
+    background-image: url(images.jfif);
+}
+
+h6{
+font-size: 300px;
+
+background-color: red;
+
+color: blue;
+}
+#ball {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    transition: all 1s;
+}
